@@ -2,7 +2,7 @@
 
 Instruções de instalação:
 
-1º Realize o download do pyhton;
+1º Realize o download do python;
 
 2º Coloque na linha pip install robotframework;
 
